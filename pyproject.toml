@@ -1,3 +1,10 @@
+[tool.poetry]
+name = "weblate"
+version = "5.11.1"
+description = "Weblate translation management system"
+authors = ["Your Name <your@email.com>"]
+license = "GPL-3.0-or-later"
+
 [build-system]
 build-backend = "setuptools.build_meta"
 requires = [
